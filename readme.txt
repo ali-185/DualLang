@@ -1,3 +1,9 @@
+Note
+
+This program currently does not work because it uses "goslate" which no longer works.
+https://bitbucket.org/zhuoqiang/goslate
+
+
 Readme
 
 This program is for converting an ePub file into a dual text ePub file.
